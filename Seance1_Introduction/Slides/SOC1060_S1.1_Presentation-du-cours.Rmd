@@ -92,7 +92,7 @@ http://galen.metapath.org/popclk.html
 
 ## Questions en démographie
 
-Valin, 1991
+Vallin, 1991
 
 > 1. Sommes-nous capables de produire assez face à cette énorme croissance de population devant nous?
 
@@ -104,6 +104,10 @@ Valin, 1991
 
 > 5. Quel nouvel ordre politique mondial imaginer pour tenter de répondre à ces questions?
 
+<!--La technicité nous fait oublier l'essentiel: L'explication des phénomènes ainsi mesurés et l'appréciation de leurs conséquences sur les autres aspects de la vie économique et sociale.
+La quête scientifique n'a pas uniquement pour fin de nous faire connaître l'univers et les lois qui le régissent, elle tend aussi à nous en donner le mode d'emploi.
+
+-->
 
 ## Questions en démographie
 Preston, 1990
@@ -130,6 +134,12 @@ Radio Canada, 2019
 https://ici.radio-canada.ca/nouvelle/1445573/surpopulation-environnement-rechauffement-gaz-effet-serre
 
 ## En conclusion, une science au coeur des autres sciences
+
+<!-- Connaître, comprendre, prévoir, maîtriser l'évolution de la population... peut-on le faire sans faire appel à d'autres disciplines: histoire, géographie, économie, sociologie, psychologie, médecine, biologie, génétique... ? Certes non. Mais, ce n'est pas pour autant que le démographe doit tout embrasser.
+Question: En quoi la démographie est utile pour le sociologue?
+
+-->
+
 
 ![](../Images/s1_1.png)
 

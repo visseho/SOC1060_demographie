@@ -209,7 +209,13 @@ Pour la semaine prochaine
 ## A faire
 - Lecture de cette semaine: Vidal, page 5 à 12
 - Lecture pour la semaine prochaine: Vidal, Chapitre 1, page 13 à 37
-- Tabutin: Les systèmes de collecte des données en démographie (sur Moodle)
 
 ## Résumé à déposer sur Moodle
+
+Tabutin: les systèmes de collectes des données en démographie
+
+https://github.com/visseho/SOC1060_demographie/blob/main/Seance2_Sources_Donn%C3%A9es/Lectures/Tabutin_2006_Le_systeme_de_collecte_des_donn%C3%A9es.pdf
+
+
+
 
