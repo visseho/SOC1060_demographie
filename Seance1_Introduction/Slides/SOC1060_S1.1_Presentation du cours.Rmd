@@ -1,0 +1,212 @@
+---
+title: 'Séance 1.1: Présentation du cours'
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  beamer_presentation:
+    colortheme: beaver
+    fonttheme: structurebold
+    theme: AnnArbor
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+## Plan de présentation
+
+1. Qui suis-je?
+2. Questions en démographie
+3. Présentation du cours
+
+
+Qui suis-je?
+=============================
+
+
+## Formations
+
+- Doctorat en Démographie, Université de Montréal
+- Maîtrise en Économie du développement, Centre d’Études et de Recherche sur le Développement International (CERDI), France
+- Ingénieur des Travaux Statistiques, Ecole Nationale de Statistiques et d’Économie Appliquées (ENSEA), Côte d'Ivoire
+- Diplôme de mathématiques, Université de Lomé (Togo)
+
+## Expériences professionnelles
+
+- University of Cape Town (2013 - 2018)
+- Université du Québec à Montréal (UQAM) depuis juillet 2018
+
+
+## Intérêts de recherche
+
+1. Démographie / Sociologie
+    - Dynamiques familiales en Afrique sub-Saharienne (ASS)
+    - Emploi des femmes et fécondités (ASS)
+    - Population immigrantes au Canada
+    - Transition démographique
+
+## Intérêts de recherche
+
+2. Santé publique
+    - Recours aux soins de santé (ASS)
+    - Mortalité infantile et maternelle (ASS)
+    - Santé de la reproduction
+
+## Intérêts de recherche
+
+3. Méthodes quantitatives et computationnelles
+    - Causalité et ses biais
+    - Grands intérêts pour les Big data
+    - Vos projets m'intéressent :)
+
+
+## Intérêts centrés sur les objectifs de développement durable
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/odd_poster.jpg)
+
+
+Questions en démographie
+================================
+
+## Combien sommes-nous sur la planète?
+
+http://galen.metapath.org/popclk.html
+
+## Objectifs
+
+>- Familiariser les étudiants avec les principaux phénomènes démographiques et leur mesure
+
+>- Tenter de comprendre la «société»
+
+>- Affiner l'opinion des étudiants sur le devenir de l’humanité et comprendre les moyens dont nous disposons pour cela
+
+
+## Questions en démographie
+
+Valin, 1991
+
+> 1. Sommes-nous capables de produire assez face à cette énorme croissance de population devant nous?
+
+> 2. Sommes-nous capable de répartir plus équitablement cette production?
+
+> 3. Sommes-nous capables de gérer les flux migratoires énormes qui ne manqueront pas de résulter de cette situation démographique?
+
+> 4. Sommes-nous capables d’atteindre, ou presque, ces objectifs sans détruire la planète, sans scier la branche sur laquelle nous sommes assis?
+
+> 5. Quel nouvel ordre politique mondial imaginer pour tenter de répondre à ces questions?
+
+
+## Questions en démographie
+Preston, 1990
+
+> 1. Étude prospective sur la population
+
+> 2. Problèmes d’équité
+
+> 3. Relation entre population et environnement
+
+> 4. Migration internationale volontaire
+
+> 5. Changement dans la famille et de la fécondité
+
+> 6. Vieillissement
+
+> 7. Modèles de maladie, d’incapacité et de décès
+
+<!-- (Pouvons-nous répondre à ces questions, à ces intérogations qui sont au coeur de l’action politique aujourd’hui sans faire appel à d’autres disciplines. Pouvons-nous connaître, comprendre, prévoir, maîtriser l’évolution de la population en restant fermer dans notre cocon?). Ceci permet aussi d'ajouter un commentaire [//]: -->
+
+## Questions en démographie
+Radio Canada, 2019
+
+https://ici.radio-canada.ca/nouvelle/1445573/surpopulation-environnement-rechauffement-gaz-effet-serre
+
+## En conclusion, une science au coeur des autres sciences
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.1.png)
+
+## En conclusion, une science au coeur des autres sciences
+
+
+“ Parmi toutes les sciences de l’Homme, c’est la démographie qui peut le moins se passer des autres sciences. (…) la biologie, la sociologie, la psychologie; (…) l’économie politique pour autant que l’être humain est pendant une période de sa vie un producteur et pendant toute sa vie un consommateur, l’ethnologie (…), l’écologie (…), la philosophie pour autant que les évènements démographiques ont un sens ontologique évident. Les mathématiques et la statistique (…), la technologie (…), la géographie, la médecine, l’histoire, le droit, la criminologie, la théologie, la morale, les sciences politiques, la pédagogie se rencontrent toutes un jour ou l’autre avec la démographie." Jean Bourgeois-Pichat, 1962.
+
+
+## Importance des mathématiques
+
+> 1. Revoir les notions de base du CEGEP
+
+>  - Opérations, signe, utilisation des parenthèses 
+>  - Fractions et puissances
+>  - Équations du premier degré
+>    - 2x + 1 = 4
+
+> 2. Pour résoudre un problème mathématique:
+
+>  - Traduire la question de manière cohérente: la poser si possible sous “forme mathématique”
+>  - Poser les hypothèses et leurs traductions
+>  - Résoudre le problème
+
+> 3. Utilisation du logiciel EXCEL: http://www.freelang.com/mag/informatique_excel.html
+
+
+Présentation du syllabus
+====================================
+
+## Calendrier
+
+
+## Devoirs
+
+> - Voir calendrier
+> - Application du cours et résumé de lecture
+> - Travail en groupe permis si justifié
+> - 8 devoirs au total
+> - Les devoirs comptent pour 45% de la note finale
+
+
+## Examens
+
+- Intra : compte pour 20%
+- Final : compte pour 30%
+
+- Organisation
+    - Questions à Choix multiples
+    - Sans note ou documentation, 
+    - Seule la calculatrice est permise
+
+## Participation
+
+- 5% de la note finale. Proportionnelle au nombre de présence au cours.
+
+## Matériels de cours
+
+- Livre de cours
+
+    - Vidal, Annie (2002), Démographie: Éléments d’analyse et évolution du peuplement humain (Presses Universitaires de Grenoble, 2002, 192 p.) Obligatoire
+    - Rollet Cathérine (2015), Introduction à la démographie, Armand Colin, Paris.
+
+- Recueil de texte (à télécharger par vous même si disponible en ligne)
+
+## Disponibilités
+
+> - Mes heures de bureau sont chaque fois que mou bureau est ouvert. 
+
+> - Vous pouvez venir me parler à tout moment. Si vous avez besoin de planifier une heure particulière pour me voir, contactez-moi par Slack ou par courrier électronique.
+
+>- Privilégier Slack pour les interactions 
+
+## Ressources
+
+> - ONU, Division de la population : 
+>    - www.un.org/unpp/
+>    - http://data.un.org
+
+> - US Census Bureau
+>    - www.census.gov
+
+> - INED
+>    - www.ined.fr
+
+> - Statistique Canada
+>    - www.statcan.gc.ca
+
+
+
+

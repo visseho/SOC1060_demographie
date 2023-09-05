@@ -1,0 +1,22 @@
+---
+title: "Labo 2: Source des données"
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Exercice 1: Statcompiler
+
+L'outil statcompiler (https://www.statcompiler.com/en/) permet de sortir des statistiques rapides sur les phénomènes démographiques dans les pays en développement. Il est basé sur les données de l'enquêtre démographique et de santé (EDS).
+
+1. Choisssez 4 pays (un dans chaque zone géographique couverte par les données EDS)
+2. Choisissez trois indicateurs (régarder dans la liste complète) qui ont trait à des sujets qui vous intéressent.
+3. Pour chaque indicateur, présenter son évolution (graphique) selon les 4 pays retenus au départ.
+4. Présenter ces graphiques selon le milieu de résidence.
+4. Commentez les résultats.
+
+Cet exercice vous conduit donc à suivre juste les informations sur le site https://www.statcompiler.com/en/
+
+
