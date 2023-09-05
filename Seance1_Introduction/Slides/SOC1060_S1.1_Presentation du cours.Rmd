@@ -60,7 +60,7 @@ Qui suis-je?
 
 ## Intérêts centrés sur les objectifs de développement durable
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/odd_poster.jpg)
+![](../Images/odd_poster.jpg)
 
 
 Questions en démographie
@@ -70,13 +70,24 @@ Questions en démographie
 
 http://galen.metapath.org/popclk.html
 
-## Objectifs
 
->- Familiariser les étudiants avec les principaux phénomènes démographiques et leur mesure
+## Objectifs généraux
+
+>- Familiariser les étudiants avec les principaux phénomènes démographiques et leurs mesures
 
 >- Tenter de comprendre la «société»
 
 >- Affiner l'opinion des étudiants sur le devenir de l’humanité et comprendre les moyens dont nous disposons pour cela
+
+## Objectifs spécifiques
+
+>-	Interpréter les principaux indicateurs décrivant les phénomènes démographiques (mortalité, nuptialité, fécondité et migration) ;
+
+>-	Acquérir une bonne compréhension de ces phénomènes démographiques et leur rapport avec les problèmes sociaux ;
+
+>-	Comprendre et porter un regard critique sur les phénomènes démographiques et les problèmes sociaux de différents contextes géographiques ;
+
+>- De calculer certains de ces indicateurs en partant des données habituellement fournies par les sources les plus classiquement utilisées dans ce but.
 
 
 ## Questions en démographie
@@ -120,7 +131,7 @@ https://ici.radio-canada.ca/nouvelle/1445573/surpopulation-environnement-rechauf
 
 ## En conclusion, une science au coeur des autres sciences
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.1.png)
+![](../Images/s1_1.png)
 
 ## En conclusion, une science au coeur des autres sciences
 
@@ -146,66 +157,85 @@ https://ici.radio-canada.ca/nouvelle/1445573/surpopulation-environnement-rechauf
 > 3. Utilisation du logiciel EXCEL: http://www.freelang.com/mag/informatique_excel.html
 
 
+## Importance pour le sociologue
+
+
+
 Présentation du syllabus
 ====================================
 
 ## Calendrier
 
 
-## Devoirs
+## Devoirs (20%)
 
-> - Voir calendrier
-> - Application du cours et résumé de lecture
-> - Travail en groupe permis si justifié
-> - 8 devoirs au total
-> - Les devoirs comptent pour 45% de la note finale
+- Voir calendrier
+- Application du cours et résumé de lecture
+- Travail en groupe permis si justifié
+- 2 devoirs au total
+- Les devoirs comptent pour 20% de la note finale
 
+## Débats (présentation et soumission du travail) (20%)
 
-## Examens
+- Présentation orale en équipe (note individuelle) (10%)
+- Travail rédigé soumis (note individuelle)    (10%)
+
+## Examens   (50%)
 
 - Intra : compte pour 20%
 - Final : compte pour 30%
 
 - Organisation
-    - Questions à Choix multiples
+    - Questions à Choix multiples (plus possiblement questions ouvertes)
     - Sans note ou documentation, 
     - Seule la calculatrice est permise
 
-## Participation
+## Participation (10%)
 
-- 5% de la note finale. Proportionnelle au nombre de présence au cours.
+- Résumé des articles de chaque séances (à envoyer au plus tard à la veille du cours)
+- Participation active en classe
+- 10% de la note finale. 
 
 ## Matériels de cours
 
 - Livre de cours
 
-    - Vidal, Annie (2002), Démographie: Éléments d’analyse et évolution du peuplement humain (Presses Universitaires de Grenoble, 2002, 192 p.) Obligatoire
-    - Rollet Cathérine (2015), Introduction à la démographie, Armand Colin, Paris.
+    -	Catherine Rollet, Introduction à la démographie (Armand Colin, 2015, 128 p.)
+    -	Céline Clément et Carole Brugeilles, Introduction à la démographie (Armand Colin, 2020, 263p.)  
+    -	Frank Trovato, Canada’s Population in a Global Context: An Introduction to Social Demography (Second Edition), (Oxford, 2015) 
+    -	Annie Vidal, Démographie : Éléments d’analyse et évolution du peuplement humain (Presses Universitaires de Grenoble, 2002, 192 p.).
 
 - Recueil de texte (à télécharger par vous même si disponible en ligne)
 
 ## Disponibilités
 
-> - Mes heures de bureau sont chaque fois que mou bureau est ouvert. 
+- Mes heures de bureau sont:
 
-> - Vous pouvez venir me parler à tout moment. Si vous avez besoin de planifier une heure particulière pour me voir, contactez-moi par Slack ou par courrier électronique.
+    - Mardi (Zoom) : 12h30 - 13h30
+    - Mercredi (Présence) : 13h - 14h
+
+>- Si vous avez besoin de planifier une heure particulière pour me voir, contactez-moi par Slack ou par courriel électronique.
 
 >- Privilégier Slack pour les interactions 
 
 ## Ressources
 
+>- Site super intéressant
+  
+  >- https://ourworldindata.org/
+  
 > - ONU, Division de la population : 
->    - www.un.org/unpp/
->    - http://data.un.org
+  >- www.un.org/unpp/
+  >- http://data.un.org
 
-> - US Census Bureau
->    - www.census.gov
+>- US Census Bureau
+  >- www.census.gov
 
-> - INED
->    - www.ined.fr
+>- INED
+  >- www.ined.fr
 
-> - Statistique Canada
->    - www.statcan.gc.ca
+>- Statistique Canada
+  >- www.statcan.gc.ca
 
 
 

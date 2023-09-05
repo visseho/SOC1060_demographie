@@ -85,7 +85,7 @@ Histoire de la démographie
 
 
 <center>
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.2.png)
+![](../Images/s1_2.png)
 </center>
 
 ## Autres contributions de John Graunt
@@ -102,7 +102,7 @@ Histoire de la démographie
 
 ## 1693 : Publication de la première Table de Mortalité (Edmud Halley)
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.3.png)
+![](../Images/s1_3.png)
 
 
 ## Formalisation de la table de mortalité
@@ -129,7 +129,7 @@ Histoire de la démographie
 
 ## 1798 : Essai de Robert Malthus
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.4.png)
+![](../Images/s1_4.png)
 
 ## 1798 : Essai de Robert Malthus
 
@@ -181,7 +181,7 @@ Quelques conférences marquantes
 
 ## Opinion des gouvernements sur leur niveau de fécondité 
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s1.5.png)
+![](../Images/s1_5.png)
 
 ## Conclusion
 
@@ -210,3 +210,6 @@ Pour la semaine prochaine
 - Lecture de cette semaine: Vidal, page 5 à 12
 - Lecture pour la semaine prochaine: Vidal, Chapitre 1, page 13 à 37
 - Tabutin: Les systèmes de collecte des données en démographie (sur Moodle)
+
+## Résumé à déposer sur Moodle
+
