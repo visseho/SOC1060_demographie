@@ -107,6 +107,24 @@ Vallin, 1991
 <!--La technicité nous fait oublier l'essentiel: L'explication des phénomènes ainsi mesurés et l'appréciation de leurs conséquences sur les autres aspects de la vie économique et sociale.
 La quête scientifique n'a pas uniquement pour fin de nous faire connaître l'univers et les lois qui le régissent, elle tend aussi à nous en donner le mode d'emploi.
 
+p. XVI: Le demographe, pour decrire et expliquer la dynamique de la population,
+ne peut done se limiter aux seules variables demographiques. II doit necessairement
+prendre en compte dans son cadre conceptuel l' ensemble des facteurs,
+individuels et collectifs, qui peuvent influencer les trajectoires demographiques
+indi viduelles et done celle de la population, objet de l'etude.
+
+Notre societe conna1t aujourd'hui de rapides changements,
+qui, en penalisant plus que d' autres certain es aires geographiques de
+la planete ou certains groupes de population, engendrent de nouvelles inegalites
+(sociales, economiques et demographiques) ou en reveillent d' anciennes.
+Ainsi, face aux consequences de Ia rapidite avec laquelle surviennent les
+changements sociaux et culturels, les grandes innovations technologiques,
+l' affi􀄒mation toujours plus nette de l 'economie de n1arche, le deperissement
+de I' Etat Providence, les process us de globalisation, les capacites d' adaptation
+aux nouvelles situations different d'une population a l'autre, me1ne a
+l' interieur de chaque pays, selon Jeurs cultures, leurs mo yens d' acces aux
+technologies nouvelles et, bien sur, leurs performances econo1niques.
+
 -->
 
 ## Questions en démographie
@@ -142,6 +160,13 @@ Question: En quoi la démographie est utile pour le sociologue?
 
 
 ![](../Images/s1_1.png)
+
+## En conclusion, une science au coeur des autres sciences
+
+"It has come to a point where a senior professor can say that he studied demography because it meant that he could earn a PhD in Sociology without ever reading Weber, Marx, or Durkheim . . . and no one laughs." (Johnson-Hanks et al. 2011, p.vii, Undestanding family change and variation)"
+
+"On en est arrivé à un point où un professeur chevronné peut dire qu'il a étudié la démographie parce que cela lui permettait d'obtenir un doctorat en sociologie sans jamais avoir lu Weber, Marx ou Durkheim ... et personne ne rit."
+
 
 ## En conclusion, une science au coeur des autres sciences
 

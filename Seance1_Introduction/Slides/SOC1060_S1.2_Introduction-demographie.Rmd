@@ -33,7 +33,11 @@ Définition
 
 ## Définition
 
-> - Achille Guillard (1855) – inventeur du mot démographie 
+> - Achille Guillard (1855) – inventeur du mot démographie dans son ouvrage "Éléments de statistique humaine, ou démographie comparée"
+
+<!-- ouvrage relève plus du pamphlet idéologique que de l'exposé scientifique, et même s'il en donne une définition trop restricive, reconnaissons lui au moins le mérite d'avoir inenté le mot qui désigne aujourd'hui la discipline.
+
+-->
 
 > - "Connaissance mathématique des populations, de leurs mouvements généraux, de leur état physique, civil, intellectuel et moral." (Dans "Éléments de statistique humaine ou démographie comparée")
 
@@ -44,6 +48,17 @@ Définition
 - Nations Unies (1958) 
 
 "Science ayant pour objet l’étude des $\color{red}{\textbf{populations	humaines}}$, et traitant de leur $\color{red}{\textbf{dimension}}$, de leur $\color{red}{\textbf{structure}}$, de leur $\color{red}{\textbf{évolution}}$ et de leurs caractères généraux envisagés principalement d’un $\color{red}{\textbf{point de vue quantitatif}}$"
+
+<!--Une population est une coupe transversale a un moment donne d'une
+multitude de trajectoires de vie individuelles. Au cours d'une periode de
+temps, des enfants naissent dans cette population et des personnes immigrent,
+tan dis que d' autres meurent ou emigrent. L' effectif de la population augmentera
+ou diminuera a la suite de ces evenements. Une bonne comprehension du
+mouvement de la population au cours du temps necessite done de savoir combien
+de personnes sont nees pendant la periode consideree, combien sont
+mortes et combien ont emigre ou immigre (comme on le verra plus precisement
+au chapitre 3). (Vallin, page XIV) -->
+
 
 ## Définition 
 
@@ -63,6 +78,8 @@ Définition
 
     - Sexe, etc
 
+<!--La structure demographique a un instant du temps dependra des lors des caracteristiques des indi vidus composant la population a cet instant-la, telles que leur age, leur etat matrimonial, leur sexe, etc.-->
+
 \end{column}
 \begin{column}{0.5\textwidth}
 
@@ -73,10 +90,22 @@ Définition
     - Mortalité/santé
     
     - Migration 
+    
+<!--Le mouvement demographique, quant a lui, decoulera du nombre de naissances, de deces, d' emigrations et d'immigrations survenant dans cette population au cours d'une periode de temps.-->
 
 \end{column}
 \end{columns}
 
+<!--La variete de structures demographiques possibles est ainsi infinie selon
+le nombre de caracteristiques retenues. Les individus ne different pas seulement
+en fonction de leur age ou de leur etat matrimonial, mais aussi par leurs
+habitudes alimentaires, leurs gouts musicaux, la couleur de leurs cheveux ou
+de leurs yeux, etc. Ces caracteristiques, et les structures associees, ne sont
+pas toutes utiles pour le demographe; seules les caracteristiques pouvant influencer
+le mouvement demographique doivent etre prises en compte. C'est
+ainsi que la fecondite, la mortalite et la migration varient selon l' age, le sexe,
+l'etat matrimonial de l'individu; mais le degre d'instruction, le groupe social
+ou ethnique, ont aussi frequemment une incidence sur la fecondite d'un individu ou sur sa durée de vie. par contre, le fait d'aimer les tulipes ou la musique de Sibelius n'a probablement aucun effet sur les composantes du mouvement démographique. (Vallin, page XIV) -->
 
 Histoire de la démographie
 ===================================
@@ -146,11 +175,14 @@ Réponse des anti malthusiens et principalement de Karl Marx :
 >- 18e siècle : Avancée dans l’organisation du dénombrement de la population
 >- 19e siècle : Meilleure connaissance des faits de population au 19ième siècle
 >- 20e siècle : Naissance de la démographie moderne
->  - Mécanismes de la dynamique démographique
+>  - Mécanismes de la dynamique démographique: ouvrage de Alfred Lotka (1939) "dynamique des populations"
 >  - Analyse démographique
 >  - Théorie des populations
 >  - Transition démographique
 >  - Comportements
+
+<!-- C'est en effet la theeorie de Lotka qui est au coeur de la démographie, même si cette dernière a aussi pour objet d'en étudier les tenants et les aboutissants, en rapport avec les différents aspects qualitatifs et quantitatifs, tant au niveau individuel qu'à celui des sociétés." -->
+
 
 Quelques conférences marquantes
 ==========================================
@@ -202,6 +234,18 @@ Quelques conférences marquantes
   - Mortalité
   - Fécondité
   - Migration
+
+## Question sur le texte de Vallin
+
+1. Expliquer pourquoi l'homme étant un animal, la démographie ne fait pas partie des sciences biologiques? (Vallin, page X)
+
+2. Citer les trois raisons pour lesquelles le démographe doit incluire l'étude de la migration dans l'étude des dynamiques démograhiques (Vallin, page XII)
+
+3. Qu'entend-on nous par "une population peut rajeunir" alors quon sait qu'un individu ne peut jamais rajeunir. (Vallin, page XIV)
+
+4. Dans quel cas une caractéristique a un sens d'un point de vue démographique? (Vallin, page XV)
+
+5. Quels sont les grands défis dont parlent Vallin dans son texte. Pour chaque défis, dites s'il s'est accru ou s'il s'est amoindri. Appuyer vos répondes par des exemples précis et sources scientifiques. (Vallin, page XVI)
 
 Pour la semaine prochaine
 =========================
