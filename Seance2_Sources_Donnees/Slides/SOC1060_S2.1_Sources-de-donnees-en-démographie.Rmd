@@ -58,7 +58,7 @@ Introduction
 - Pour répondre à ces questions, il y a nécessité de disposer de données fiables 
 
 <center>
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.1.png)
+![](../Images/s2_1.png)
 </center>
 
 A. Les données usuelles des démographes
@@ -93,7 +93,7 @@ A. Les données usuelles des démographes
 
 - Nés dans l'Europe chrétienne au milieu du 16e siècle de la volonté de faire respecter les sacrements (baptêmes, mariages et sépultures)
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.2.png)
+![](../Images/s2_2.png)
 
 
 ## Caractéristiques
@@ -133,19 +133,39 @@ des autres concepts de base (ex.: causes de décès, poids de naissance)
 
 4. Contrôle de la qualité des déclarations par les provinces et territoires et par Statistique Canada
 
+## Exemple : État civil au Canada - les types de déclaration
+
+- Naissances vivantes
+- Décès
+- Mort foetale : mort d'un foetus après 20 semaines de grossesse
+- Avortement thérapeutique
+- Mariage
+- Divorce
+- Séparation légale
+- Annulation (de mariage)
+- Adoption
+
+<!--
+La MORT FÉTALE est la mort avant l'expulsion ou l'extraction complète du produit de la conception de sa mère, quelle que soit la durée de la période de gestation. La mort est indiquée par le fait qu'après cette séparation, le fœtus ne respire pas et ne présente aucun autre signe de vie, tel que les battements du cœur, la pulsation du cordon ombilical ou le mouvement défini des muscles volontaires.
+-->
+
+## Exemple : État civil au Canada
+
+![](../Images/etat_civil.jpg)
+
 ## Une inégale couverture
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.3.png)
+![](../Images/s2_3.png)
 
 <!--
 carte 
 https://www.globalfinancingfacility.org/fr/investir-dans-les-syst%C3%A8mes-denregistrement-et-de-statistiques-de-l%C3%A9tat-civil-afin-d%E2%80%99am%C3%A9liorer-les
--->
+
 
 ## Une inégale couverture
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.4.png)
-
+![](../Images/s2_4.png)
+-->
 
 Recensement
 ==================
@@ -172,11 +192,11 @@ Le problème qui se pose pour la population totale est celui de la définition r
 
 ## Définition 
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.5.png)
+![](../Images/s2_5.png)
 
 ## Définition 
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.6.png)
+![](../Images/s2_6.png)
 
 ## Raison d'être:
 
@@ -314,7 +334,7 @@ Une combinaison du recensement et de l’état-civil
 
 ## Schématiquement
 
-![Régistre de population](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.7.png)
+![Régistre de population](../Images/s2_7.png)
 
 Enquêtes
 ============================
@@ -330,7 +350,7 @@ Dictionnaire démographique multi-langue,
 
 «Une population en miniature, qui soit représentative de l’ensemble» (Alfred Sauvy)
 
-![Échantillon](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.8.png)
+![Échantillon](../Images/s2_8.png)
 
 ## Caractéristiques
 
@@ -363,7 +383,7 @@ Dictionnaire démographique multi-langue,
 
 ## Enquêtes à passages répétés:
 
-![Deux type d'enquête](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.9.png)
+![Deux type d'enquête](../Images/s2_9.png)
 
 - Enregistrement des informations au fur et à mesure : passages à intervalles réguliers pour enregistrer les événements survenus depuis la visite précédente
 
@@ -412,7 +432,7 @@ Dictionnaire démographique multi-langue,
 
 ## Dans les pays développés
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.10.png)
+![](../Images/s2_10.png)
 
 ## Les enquêtes dans les pays en développement
 
@@ -574,6 +594,7 @@ Site web: www.icddrb.org
 - Site web: www. indepth-network.org
 
 ## Les données administratives
+
 - Données des écoles
 - Données des centres de santé
 - Base de données longitudinales sur l'immigration
@@ -596,7 +617,7 @@ B. Les données digitales
 
 ## Introduction
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/Matthews.png)
+![](../Images/Matthews.png)
 
 <!--
 ## Qu'est-ce que les données de trace numériques ou digitales?
@@ -628,7 +649,7 @@ B. Les données digitales
 
 ## Exemples
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/c10facebook.png)
+![](../Images/c10facebook.png)
 
 
 Caractéristiques des données digitales
@@ -650,7 +671,7 @@ Caractéristiques des données digitales
 
 ##  2. Continue
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/c10continue.png)
+![](../Images/c10continue.png)
 
 <!--
 Figure 2.2: Conception utilisée par Budak and Watts (2015) pour étudier les manifestations d'Occupy Gezi en Turquie à l'été 2013. En utilisant la nature permanente de Twitter, les chercheurs ont créé ce qu'ils ont appelé un panel ex-post qui comprenait environ 30 000 personnes sur deux ans. Contrairement à une étude typique centrée sur les participants pendant les manifestations, le panel ex-post ajoute 1) les données des participants avant et après l'événement et 2) les données des non-participants avant, pendant et après l'événement. Cette structure de données enrichie a permis à Budak et Watts d'estimer les types de personnes les plus susceptibles de participer aux manifestations de Gezi et d'estimer les changements d'attitudes des participants et des non-participants, à court terme (comparaison avec Gezi avant Gezi). ) et à long terme (comparaison de pré-Gezi avec post-Gezi)
@@ -659,7 +680,7 @@ Figure 2.2: Conception utilisée par Budak and Watts (2015) pour étudier les ma
 
 ##  2. Continue
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/c10continue2.png)
+![](../Images/c10continue2.png)
 
 <!--
 En plus d'étudier des événements inattendus, les systèmes de données volumineuses permettent également aux chercheurs de produire des estimations en temps réel, ce qui peut être important dans les contextes où les décideurs - au gouvernement ou dans l'industrie - veulent réagir en fonction de la situation. Par exemple, les données des médias sociaux peuvent être utilisées pour orienter les interventions d'urgence en cas de catastrophes naturelles (Castillo 2016) et diverses sources de données volumineuses peuvent être utilisées pour produire des estimations en temps réel de l'activité économique (Choi and Varian 2012) .
@@ -675,7 +696,7 @@ En plus d'étudier des événements inattendus, les systèmes de données volumi
 
 ## 3. Non réactive
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/c10reactive.png)
+![](../Images/c10reactive.png)
 
 
 ## 4. Capture les relations sociales
@@ -685,7 +706,7 @@ En plus d'étudier des événements inattendus, les systèmes de données volumi
 
 ## 4. Capture les relations sociales
 
-![](/Users/visseho/OneDrive - UQAM/Cours/Images_cours/c10relation.png)
+![](../Images/c10relation.png)
 
 ## 5. Incomplet
 
@@ -815,7 +836,7 @@ Se produisent lorsque les répondants ou les enquêteurs fournissent de façon v
 
 ## Erreurs de déclaration- Erreurs sur l’âge
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s2.11.png)
+![](../Images/s2_11.png)
 
 ## Erreurs de déclaration: Erreurs liées à l’oubli
 
@@ -845,6 +866,5 @@ Pour la semaine prochaine
 
 ## A faire
 
-- Lecture pour la semaine prochaine: Vidal, Chapitre 2, page 39 - 49
 - Gilles Pison : 1914-2014 : un siècle d’évolution de la pyramide des âges en France (sur Moodle)
 
