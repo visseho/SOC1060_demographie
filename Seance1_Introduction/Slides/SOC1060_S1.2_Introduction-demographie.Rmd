@@ -52,8 +52,7 @@ Définition
 <!--Une population est une coupe transversale a un moment donne d'une
 multitude de trajectoires de vie individuelles. Au cours d'une periode de
 temps, des enfants naissent dans cette population et des personnes immigrent,
-tan dis que d' autres meurent ou emigrent. L' effectif de la population augmentera
-ou diminuera a la suite de ces evenements. Une bonne comprehension du
+tandis que d' autres meurent ou emigrent. L' effectif de la population augmentera ou diminuera a la suite de ces evenements. Une bonne comprehension du
 mouvement de la population au cours du temps necessite done de savoir combien
 de personnes sont nees pendant la periode consideree, combien sont
 mortes et combien ont emigre ou immigre (comme on le verra plus precisement
@@ -61,10 +60,6 @@ au chapitre 3). (Vallin, page XIV) -->
 
 
 ## Définition 
-
-
-\begin{columns}
-\begin{column}{0.5\textwidth}
 
 - État
 
@@ -80,10 +75,9 @@ au chapitre 3). (Vallin, page XIV) -->
 
 <!--La structure demographique a un instant du temps dependra des lors des caracteristiques des indi vidus composant la population a cet instant-la, telles que leur age, leur etat matrimonial, leur sexe, etc.-->
 
-\end{column}
-\begin{column}{0.5\textwidth}
+## Définition 
 
-> - Facteurs de changements démographique
+- Facteurs de changements démographiques
     
     - Fécondité/mariage
     
@@ -93,8 +87,6 @@ au chapitre 3). (Vallin, page XIV) -->
     
 <!--Le mouvement demographique, quant a lui, decoulera du nombre de naissances, de deces, d' emigrations et d'immigrations survenant dans cette population au cours d'une periode de temps.-->
 
-\end{column}
-\end{columns}
 
 <!--La variete de structures demographiques possibles est ainsi infinie selon
 le nombre de caracteristiques retenues. Les individus ne different pas seulement
@@ -181,7 +173,7 @@ Réponse des anti malthusiens et principalement de Karl Marx :
 >  - Transition démographique
 >  - Comportements
 
-<!-- C'est en effet la theeorie de Lotka qui est au coeur de la démographie, même si cette dernière a aussi pour objet d'en étudier les tenants et les aboutissants, en rapport avec les différents aspects qualitatifs et quantitatifs, tant au niveau individuel qu'à celui des sociétés." -->
+<!-- C'est en effet la théorie de Lotka qui est au coeur de la démographie, même si cette dernière a aussi pour objet d'en étudier les tenants et les aboutissants, en rapport avec les différents aspects qualitatifs et quantitatifs, tant au niveau individuel qu'à celui des sociétés." -->
 
 
 Quelques conférences marquantes
@@ -251,8 +243,7 @@ Pour la semaine prochaine
 =========================
 
 ## A faire
-- Lecture de cette semaine: Vidal, page 5 à 12
-- Lecture pour la semaine prochaine: Vidal, Chapitre 1, page 13 à 37
+
 
 ## Résumé à déposer sur Moodle
 
