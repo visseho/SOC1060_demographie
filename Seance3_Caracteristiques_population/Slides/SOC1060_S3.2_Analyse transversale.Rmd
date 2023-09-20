@@ -1,0 +1,165 @@
+---
+title: 'Séance 3.1: Caractéristiques d"une population'
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  beamer_presentation:
+    colortheme: beaver
+    fonttheme: structurebold
+    theme: AnnArbor
+  slidy_presentation: default
+  ioslides_presentation: default
+header-includes:
+  - \usepackage{color}  
+---
+
+
+Analyse longitudinale et analyse transversale
+========================================================
+
+
+## Deux types d'oservation
+
+- Le démographe peut privilégier l’examen d’un phénomène à un moment donné (observation ponctuelle)...
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.41.png)
+
+## Deux types d'oservation
+
+- ... ou s’intéresser au suivi d’un phénomène à plusieurs moments dans le temps (observation continue)
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.42.png)
+
+## Analyse transversale (ou du moment)
+
+- Analyse des événements au cours d’une période donnée, le plus souvent une ou plusieurs années de calendrier
+- liée à une connaissance du présent
+
+## Analyse transversale (ou du moment)
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.43.png)
+
+## Analyse longitudinale (ou par cohorte)
+
+- Analyse des événements affectant une ou plusieurs générations ou cohortes
+- Suppose le suivi d’une génération jusqu’à l’occurrence complète du phénomène observé
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.44.png)
+
+## Analyse transversale vis-à-vis analyse longitudinale
+
+>- L’intérêt porté à l’actualité démographique accorde une priorité à l’approche transversale
+
+>- Mais l’approche longitudinale est très importante pour étudier l’évolution des phénomènes démographiques dans le temps et donc évaluer le rapport de causalité entre différents événements démographiques
+
+## Taux et quotients
+
+>- **Taux**: Rapport du $\color{red}{\textbf{nombre d’événements}}$ intervenus au cours d’$\color{red}{\textbf{une période donnée}}$ à la $\color{red}{\textbf{population moyenne}}$ de la période.
+>
+- On distingue:  
+  - des taux bruts, 
+  - des taux par âge et 
+  - des taux de génération.
+
+>- **Quotient**: Rapport du $\color{red}{\textbf{nombre d’événements}}$ survenus dans une $\color{red}{\textbf{cohorte au cours d’une année d’âge}}$ à l’$\color{red}{\textbf{effectif initial}}$ de cette cohorte. 
+
+>  - Il représente la $\color{red}{\textbf{probabilité}}$ d’apparition de l’événement dans une population non encore touchée par l’événement.
+
+## Taux entre anniversaires
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.45.png)
+
+$$f_x = \frac{E_a + E_b}{(P_x + P^{'}_x)/2}$$
+
+## Taux de génération
+
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.46.png)
+
+
+$$f_x = \frac{E_b + E^{'}_b}{(P_x + P_{x+1})/2}$$
+
+
+## Quotient entre anniversaires
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.47.png)
+
+$$q_x = \frac{D_a + D_b}{S_x}$$
+$$S_x = P_x + D_a$$
+
+$$q_x = \frac{D_a + D_b}{P_x + D_a}$$
+
+## Quotient selon l'âge atteint
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.48.png)
+
+$$q_x = \frac{D_a + D^{'}_a}{P_{x-1}}$$
+
+
+## Pour la semaine prochaine
+
+- Devoir 1 est en ligne
+- Lecture
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.44.png)
+
+## Analyse transversale vis-à-vis analyse longitudinale
+
+>- L’intérêt porté à l’actualité démographique accorde une priorité à l’approche transversale
+
+>- Mais l’approche longitudinale est très importante pour étudier l’évolution des phénomènes démographiques dans le temps et donc évaluer le rapport de causalité entre différents événements démographiques
+
+## Taux et quotients
+
+>- **Taux**: Rapport du $\color{red}{\textbf{nombre d’événements}}$ intervenus au cours d’$\color{red}{\textbf{une période donnée}}$ à la $\color{red}{\textbf{population moyenne}}$ de la période.
+
+  - On distingue:  
+  - des taux bruts, 
+  - des taux par âge et 
+  - des taux de génération.
+
+>- **Quotient**: Rapport du $\color{red}{\textbf{nombre d’événements}}$ survenus dans une $\color{red}{\textbf{cohorte au cours d’une année d’âge}}$ à l’$\color{red}{\textbf{effectif initial}}$ de cette cohorte. 
+
+>  - Il représente la $\color{red}{\textbf{probabilité}}$ d’apparition de l’événement dans une population non encore touchée par l’événement.
+
+## Taux entre anniversaires
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.45.png)
+
+## Taux entre anniversaires
+
+$$f_x = \frac{E_a + E_b}{(P_x + P^{'}_x)/2}$$
+
+## Taux de génération
+
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.46.png)
+
+## Taux de génération
+
+$$f_x = \frac{E_b + E^{'}_b}{(P_x + P_{x+1})/2}$$
+
+
+## Quotient entre anniversaires
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.47.png)
+
+## Quotient entre anniversaires
+
+$$q_x = \frac{D_a + D_b}{S_x}$$
+$$S_x = P_x + D_a$$
+
+$$q_x = \frac{D_a + D_b}{P_x + D_a}$$
+
+## Quotient selon l'âge atteint
+
+![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s3.48.png)
+
+## Quotient selon l'âge atteint
+
+$$q_x = \frac{D_a + D^{'}_a}{P_{x-1}}$$
+
+
+  
+
+  
