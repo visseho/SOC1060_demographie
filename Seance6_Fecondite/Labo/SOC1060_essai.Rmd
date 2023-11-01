@@ -1,0 +1,49 @@
+---
+title: "Labo 1: Introduction à Excel"
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Exercice 1: Introduction à Excel
+
+Comprendre la dynamique des populations est important pour de nombreux domaines des sciences sociales. Nous allons calculer certaines quantités démographiques à base des naissances pour deux pays, le Kénya et la Suède, pour deux périodes: 1950 à 1955 et 2005 à 2010. Les données sont consignées dans les fichiers Excel nommés "Suede" et "Kenya".
+
+Le tableau ci-dessous présente les noms et les descriptions des variables dans chaque fichier Excel.
+
+
+ Nom                  Description
+ -------------------- ----------------------------------------------------------
+ `Pays`                Nom du pays abrégé
+ `Periode`             Période au cours de laquelle les données sont collectées
+ `Age `                Groupe d'âge 
+ `Nbre_Naissance`       Nombre de naissance en milliers (i.e., nombre d'enfants 
+                        nés des femmes du groupe d'âges) 
+ `Nbre_Décès`           Nombre de décès en millier 
+ `Nbre_Homme`           Effectif des hommes pour chaque groupe d'âge(en milliers) 
+ `Nbre_Femme`           Effectif des hommes pour chaque groupe d'âge(en milliers) 
+--------------------- ------------------------------------------------------------
+Source: United Nations, Department of Economic and Social Affairs, Population Division (2013). *World Population Prospects: The 2012 Revision, DVD Edition.*
+
+On va utiliser les données de la Suède pour calculer quelques indicateurs simples:
+
+1. Quelles sont les populations totales (des hommes, des femmes et de l'ensemble de la population) de la Suède au cours des deux périodes?
+2. Pour chaque période, calculer la proportion des hommes, la proportion des femmes et la proportion de chaque groupe d'âge
+3. Calculer le ratio des hommes aux femmes à chaque groupe d'âges
+4. Présenter un graphique montrant le nombre de naissance par âge
+5. Faites les mêmes calculs avec les données du Kenya (questions 1 à 4)
+6. Que constatez-vous?
+
+## Exercice 2: Rappel mathématiques de base
+
+Sachant que le nombre moyen d'enfants qu'une femme met au monde entre son $x^e$ et son $(x+1)^e$ anniversaire peut être estimé par l'expression $f(x) = k(x + 0,5 - \alpha)(\alpha + 32,5 - x)^2$ où k est une constante et $\alpha$ l'âge minimum `a la maternité, comparer le nombre moyen d'enfants que met au monde une femme entre 40 et 41 ans, f(40), à celui qu'elle a mis au monde entre 20 et 21 ans, f(20), si $\alpha$ = 15 ans.
+
+## Exercice 3: Lien entre sociologie et démographie
+
+Après ce premier cours et après avoir lu le texte de Caselli et al. Introduction générale, dites en quoi la démographie est utile à la sociologie (ou au sociologue). (Maximum eux paragraphes)
+
+## Exercice 4: Défis de population
+
+Le texte de Caselli est écrit dans les années 1997. Cela fait donc 20 ans. Et pourtant, les problèmes de population décrits tant dans les pays du nord que du Sud semblent être toujours d'actualité, si ce n'est qu'ils se sont amplifiés. Après avoir résumé ces problèmes, énumérer de nouveaux défis pour les populations du Nord et du Sud qui n'ont pas été abordés dans le texte. 
