@@ -184,11 +184,8 @@ $$TFA_{x} = f_{x} = \frac{N(x, x+1)}{(P_{x, t} + P_{x, t+1})/2}$$
 
 ## Taux de fécondité par âge
 
-- mettre graphique du livre
+![](../Images/tfa_all.png)
 
-
-
-## Taux de fécondité ar âge
 
 ## TFA dans le monde
 
@@ -196,9 +193,9 @@ $$TFA_{x} = f_{x} = \frac{N(x, x+1)}{(P_{x, t} + P_{x, t+1})/2}$$
 
 ## L’indice synthétique de fécondité du moment
 
-> - Encore appellé : indice conjoncturel de fécondité
+> - Encore appellé : indice conjoncturel de fécondité ou encore somme des naissances réduites
 
-> - Mesure le nombre moyen d'enfants que des femmes auraient au cours de leur vie si, **à tout âge**, leur niveau de fécondité était celui de l'année considérée:
+> - Mesure le nombre moyen d'enfants que des femmes auraient au cours de leur vie si, **à tout âge**, leur niveau de fécondité était celui de l'année considérée.
 
 ## L’indice synthétique de fécondité du moment
 
@@ -230,15 +227,6 @@ Total   377 462  7 232 631
 NEV: Nombre de naissances vivance
 PF: Population féminine
 PT: Population total (33 476 688)
-
-
-## Taux brut de reproduction
-
-
-
-## Taux net de reproduction
-
-
 
 
 ## Les taux de fécondité par génération
@@ -308,25 +296,54 @@ $$DF (génération y) = 5*(TFA_{15, y} + TFA_{20, y} + ... + TFA_{45, y})$$
 - DF (génération 1945) = (0,01 + 0,15 + 0,20 + 0,35 + 0,42 + …+ 0,08 + 0,07) = 2,42 enfants par femme
 
 
+## Taux brut de reproduction
+
+>- Permet de savoir dans quelle mesure une génération est remplacée
+
+>- Il faut que chaque femme donne naissance à au moins une fille.
+
+>- TBR = ISF * 0.488
+
+>- D'où vient les 0.488?
+
+>- On sait que le RM = 1,05 
+
+
+## Taux net de reproduction
+
+>- Il faut en plus que cette fille survive elle-même pour donner une naissance vivante.
+
+>- Il faut alors tenir compte de la probabilité de survivvre jusqu'à l'âge de la maternité.
+
+>- Si les femmes donnent naissance en moyenne à 29 ans, il faut calculer $S_{29}$
+
+>- $TNR = TBR * S_{29}$
+
+>- D'où vient alors l'idée qu'il faut 2,1 enfant pour assurer le remplacement d'une population?
+
+
 ## L’âge moyen à la maternité d’une génération
 
-- les mêmes formules s'appliquent.
-- Il suffit de reconstituer les taux de fécondité de la génération (voir labo 5)
+>- les mêmes formules s'appliquent.
+
+>- Il suffit de reconstituer les taux de fécondité de la génération (voir labo 5)
 
 ![](../Images/s4.12.png)
-
-
-## Exemple
-
-figure livre page 202
-
-
 
 ## Lien entre indice synthétique de fécondité et descendance finale
 
 > - Indice synthétique de fécondité: synthétise 35 fractions d’histoires fécondes en cours d’écriture par 35 groupes de femmes différents (c’est-à-dire, des générations différentes)
 
 > - Descendance finale: synthétise 35 ans de vie féconde d’un groupe de femmes par cumul des taux de fécondité aux âges successifs
+
+
+## Quel est le meilleur indicateur
+
+1. Deux phénomènes interfèrent avec l’interprétation de l’ISF du moment: 
+
+  - la répartition des naissances dans la vie des femmes (calendrier) 
+  - le nombre final d’enfants qu’auront les mères (intensité)
+
 
 ## Quel est le meilleur indicateur
 
@@ -343,8 +360,13 @@ figure livre page 202
 
 L’indice synthétique de fécondité du moment peut s’écarter sensiblement et durablement des descendances finales correspondantes si l’âge moyen à la maternité varie au fil de générations
 
-## L’âge moyen à la maternité: définition
 
+## Quel est le meilleur indicateur
+
+![](../Images/isf_df.png)
+
+
+## L’âge moyen à la maternité: définition
 
 - Âge moyen à la maternité = âge moyen des mères lors des naissances vivantes en l’absence de mortalité
 
@@ -418,7 +440,7 @@ $$AMM = \frac{(15 + 2,5)*TFA_{15} + ... + (45 + 2,5)*TFA_{45}}{TFA_{15} + TFA_{2
   - pratiques sociales et 
   - d’états sanitaires (la durée de l’allaitement, l’abstinence sexuelle post-partum, l’entrée dans la vie conjugale, l’existence du célibat définitif, etc.) tels que l’on peut parler à leur propos de fécondité naturelle 
 
-2. Les taux brut de fécondité varient entre 33 pour 1000 et 55 pour 1000 
+>2. Les taux brut de fécondité varient entre 33 pour 1000 et 55 pour 1000 
 
 ## Les grandes tendances de la fécondité
 
@@ -433,7 +455,7 @@ $$AMM = \frac{(15 + 2,5)*TFA_{15} + ... + (45 + 2,5)*TFA_{45}}{TFA_{15} + TFA_{2
 
 - TBF dans le monde
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/tbf.png)
+![](../Images/tbf.png)
 <!--
 ## TFA dans le monde
 
@@ -443,21 +465,21 @@ $$AMM = \frac{(15 + 2,5)*TFA_{15} + ... + (45 + 2,5)*TFA_{45}}{TFA_{15} + TFA_{2
 
 ## ISF dans le monde
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/isf.png)
+![](../Images/isf.png)
 
 ## Évolution de l'ISF dans le monde 1976 - 2013 (Ouedraogo)
 
 - 90 pays ont un ISF de plus de 5 enfants par femme
 - 23 pays ont un ISF plus faible que 2.1 enfant par femme (Europe et Amérique)
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s4.14.png)
+![](../Images/s4.14.png)
 
 ## Évolution de l'ISF dans le monde 1976 - 2013 (Ouedraogo)
 
 - 15 pays ont un ISF de plus de 5 enfants par femme
 - 73 pays ont in ISF plus faible que 2.1 enfants par femme 
 
-![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s4.15.png)
+![](../Images/s4.15.png)
 
 
 4. Société et fécondité: interactions entre le social et le biologique
@@ -536,6 +558,12 @@ $$TFR = C_m * C_c * Ca * C_i * T_F$$
 
 - TF est la fécondité totale (c'est-à-dire la fécondité totale maximale), qui est fixée à une valeur moyenne de 15,3 enfants par femme.
 
+## les déterminants proximaux de Bongaarts (Au Canada)
+
+
+![](../Images/Bongaarts.png)
+
+
 ## Cadre de Blake et Davis
 
 - Cadre méthodologique introduit par Blake et Davis en 1956 (theory of the proximate determinants of fertility):
@@ -545,12 +573,7 @@ $$TFR = C_m * C_c * Ca * C_i * T_F$$
   **2. Variables explicatives ou indépendantes, qui renvoient à la sociologie, l’économie, la politique etc.**
 
 
-
-6. Transition de la fécondité
-===============================================
-
-
-7. Théories du changement de fécondité
+6. Théories du changement de fécondité
 ============================================
 
 
@@ -570,6 +593,7 @@ $$TFR = C_m * C_c * Ca * C_i * T_F$$
 ## Cadre de Becker
 
 
+![](../Images/Becker.png)
 
 
 ## Cadre de Becker
@@ -590,75 +614,164 @@ $$TFR = C_m * C_c * Ca * C_i * T_F$$
 
 Easterlin attribue cela à une combinaison de facteurs démographiques, sociologiques et économiques
 
-- l'état de l'économie et la mesure dans laquelle les jeunes adultes ont pu réaliser leurs aspirations matérielles (c'est-à-dire leur revenu par rapport à leurs aspirations matérielles) ;
+>- l'état de l'économie et la mesure dans laquelle les jeunes adultes ont pu réaliser leurs aspirations matérielles (c'est-à-dire leur revenu par rapport à leurs aspirations matérielles) ;
 
-- la proportion de jeunes travailleurs par rapport aux travailleurs plus âgés (c'est-à-dire la taille relative de la cohorte et son impact sur les structures d'opportunités des membres de la cohorte) ; et
+>- la proportion de jeunes travailleurs par rapport aux travailleurs plus âgés (c'est-à-dire la taille relative de la cohorte et son impact sur les structures d'opportunités des membres de la cohorte) ; et
 
-- le type de socialisation que les cohortes ont connu pendant leur enfance et leur adolescence (c'est-à-dire la socialisation différentielle des préférences pour les enfants et les aspirations matérielles).
-
-## La théorie cyclique de Easterlin
-
-La thèse d'Easterlin implique que le boom de la fécondité de l'après-guerre peut être attribué aux générations d'adultes nés dans les années 1920 et 1930, dont l'enfance et la socialisation adolescente se sont déroulées pendant les jours difficiles de la Grande Dépression, lorsque l'économie s'était effondrée. En outre, leurs valeurs sociales ont été fortement façonnées par la tradition et l'adhésion à des normes familiales fortes. Compte tenu de cette combinaison de conditions sociales et économiques, les générations des années 1930 ont développé de fortes préférences pour le mariage précoce et la constitution d'une famille. 
-
-De plus, dans les années 1950 et 1960, au lendemain de la Seconde Guerre mondiale, les économies des pays industrialisés ont connu une période de croissance rapide et la demande de main-d'œuvre était intense. Pour les jeunes hommes entrant sur le marché du travail, cette situation présentait un concours de circonstances fortuit : les emplois étaient nombreux et les possibilités d'avancement sur le lieu de travail étaient meilleures que jamais. L'état favorable de l'économie, combiné à l'expérience de socialisation traditionnelle de l'enfance de cette génération et à sa petite taille numérique, a créé un environnement très propice au mariage et à la parentalité précoces. Ces jeunes adultes pouvaient réaliser leurs aspirations matérielles tout en se conformant aux attentes traditionnelles de se marier jeune et d'avoir beaucoup d'enfants.
+>- le type de socialisation que les cohortes ont connu pendant leur enfance et leur adolescence (c'est-à-dire la socialisation différentielle des préférences pour les enfants et les aspirations matérielles).
 
 ## La théorie cyclique de Easterlin
 
-- La condition économique dans les années 1960, 1970 et 1980 est très défavorable pour le mariage précoce et les naissances
-- ils ont grandi dans la prospérité qui a fait augmenter leur aspirations matérielles
-- cette combinaison de facteurs est non conductible de forte fécondité.
+>- La thèse d'Easterlin implique que le boom de la fécondité de l'après-guerre peut être attribué aux générations d'adultes nés dans les années 1920 et 1930, dont l'enfance et la socialisation adolescente se sont déroulées pendant les jours difficiles de la Grande Dépression, lorsque l'économie s'était effondrée. 
+
+>- En outre, leurs valeurs sociales ont été fortement façonnées par la tradition et l'adhésion à des normes familiales fortes. 
+
+>- Compte tenu de cette combinaison de conditions sociales et économiques, les générations des années 1930 ont développé de fortes préférences pour le mariage précoce et la constitution d'une famille. 
+
+## La théorie cyclique de Easterlin
+
+>- De plus, dans les années 1950 et 1960, au lendemain de la Seconde Guerre mondiale, les économies des pays industrialisés ont connu une période de croissance rapide et la demande de main-d'œuvre était intense. 
+
+>- Pour les jeunes hommes entrant sur le marché du travail, cette situation présentait un concours de circonstances fortuit : les emplois étaient nombreux et les possibilités d'avancement sur le lieu de travail étaient meilleures que jamais. 
+
+>- L'état favorable de l'économie, combiné à l'expérience de socialisation traditionnelle de l'enfance de cette génération et à sa petite taille numérique, a créé un environnement très propice au mariage et à la parentalité précoces. 
+
+>- Ces jeunes adultes pouvaient réaliser leurs aspirations matérielles tout en se conformant aux attentes traditionnelles de se marier jeune et d'avoir beaucoup d'enfants.
+
+## La théorie cyclique de Easterlin
+
+>- La condition économique dans les années 1960, 1970 et 1980 est très défavorable pour le mariage précoce et les naissances
+
+>- ils ont grandi dans la prospérité qui a fait augmenter leur aspirations matérielles
+
+>- cette combinaison de facteurs est non conductible de forte fécondité.
 
 
 ## La théorie contra-cyclique de Butz et Ward
 
-- Limites de la théorie de Easterlin:
+>- Limites de la théorie de Easterlin:
 
   - Le rôle changeant du statut et du rôle de la femme dans la société depuis les années 1960
   - L'augmentation de l'autonomie financière des femmes
   - Les rôles multiples que les femmes jouent dans la société au-delà du mariage et des naissances
 
-- Distingue entre le revenu des hommes et des femmes (à la différence de Easterlin qui ne regarde que le revenu das jeunes hommes) et la manière dont chacun affecte la fécondité.
+>- Distingue entre le revenu des hommes et des femmes (à la différence de Easterlin qui ne regarde que le revenu des jeunes hommes) et la manière dont chacun affecte la fécondité.
 
 ## La théorie contra-cyclique de Butz et Ward
 
-- L'augmentation du revenu des hommes ==> une augmentation du nombre d'enfants (babyboom est une réponse à l'augmentation du revenu des hommes après la guerre)
+>- L'augmentation du revenu des hommes ==> une augmentation du nombre d'enfants (babyboom est une réponse à l'augmentation du revenu des hommes après la guerre)
 
-- L'augmentation du revenu des femmes (augmentation de la scolarisation et de la participation économique après 1960) ==> réduction du nombre d'enfants 
+>- L'augmentation du revenu des femmes (augmentation de la scolarisation et de la participation économique après 1960) ==> réduction du nombre d'enfants 
 
-- La résultatnte des deux effets est une réduction du nombre d'enfants
+>- La résultatnte des deux effets est une réduction du nombre d'enfants
 
 ## La théorie contra-cyclique de Butz et Ward
 
 Le fait d'avoir des enfants affecte les coûts d'opportunité des femmes actives d'au moins trois façons :
 
-1. il y a un effet immédiat sur l'emploi des femmes
+1. Il y a un effet immédiat sur l'emploi des femmes
 2. Il y a des effets à long terme sur la capacité de gain
 3. Il en résultera une perte en termes de couverture de pension future.
 
 ## Les théories sociologiques: la seconde transition démographique
 
+>D'une manière générale, la deuxième transition démographique fait référence à une situation dans des pays qui ont depuis longtemps traversé la première transition démographique et qui connaissent des changements significatifs dans plusieurs dimensions sociales démographiques clés. Ces changements sont les suivants:
+
+## Les théories sociologiques: la seconde transition démographique
+
+>1. un pluralisme des modes de vie chez les jeunes adultes, accompagné d'une tendance généralisée à retarder le mariage au profit d'unions de cohabitation ;
+
+>2. une baisse du taux de nuptialité ;
+
+>3. l'augmentation des probabilités de divorce ;
+
+>4. des niveaux très élevés d'utilisation de la contraception ;
+
+>5. un taux de fécondité très bas ;
+
+>6. une proportion accrue de couples qui restent sans enfant ; et
+
+>7. une tendance croissante des couples à avoir des enfants en dehors du mariage traditionnel.
+
+## Les théories sociologiques: la seconde transition démographique
+
+>- La transition antérieure a été déclenchée par un énorme investissement sentimental et financier des parents dans l'enfant ; dans ce contexte, les familles plus petites étaient beaucoup mieux adaptées pour renforcer la capacité des parents à s'occuper correctement de leurs enfants.
+
+>- En revanche, la "pénurie de naissances" actuelle a été provoquée par une attitude diamétralement opposée : l'époque de "l'enfant-roi" comme objectif central du mariage et de la famille a cédé la place à l'accomplissement personnel de l'individu, ou au "couple-reine"
+
+## Les théories sociologiques: la seconde transition démographique
+
+>- Les théoriciens de cette école de pensée soulignent l'importance de la post-modernité, du post-matérialisme et des valeurs qui y sont associées et qui sont centrées sur l'éthique de l'individualisme - liberté, expression personnelle, recherche personnelle d'un meilleur mode de vie (réalisation de soi) et détachement des valeurs traditionnelles, de l'autorité institutionnelle et de l'éthique de groupe inscrite dans la religion.
+
+<!--
+## Les théories sociologiques: la seconde transition démographique
+
+- Pour van de Kaa (1999:31), ce changement d'orientation des valeurs explique parfaitement les nombreux changements démographiques survenus dans le monde occidental à partir de la seconde moitié du XXe siècle. 
+
+- Il est cohérent avec un mode de vie individualiste dans lequel les gens se sentent libres d'avoir des enfants dans le cadre du mariage ou en dehors, seuls ou avec un partenaire, tôt ou tard dans la vie ; un mode de vie dans lequel il est entendu que le sexe et le mariage ne sont plus étroitement liés, et que la contraception n'est interrompue que pour avoir une conception auto-réalisatrice. 
+
+- Les sociétés post-modernes ont également en commun la nature réflexive du processus d'individuation - un processus de remise en question et de confrontation de soi par les futurs parents. 
+
+- Les couples se demandent généralement si le fait d'avoir des enfants enrichira leur vie. 
+
+- Dans de nombreux cas aujourd'hui, la réponse semble être "non". 
+
+- Mais une fois qu'un couple décide qu'il veut un enfant, il fera tout ce qui est en son pouvoir pour réaliser son désir, même si cela implique de recourir à une assistance médicale par le biais de moyens tels que la fécondation in vitro, la gestation pour autrui et l'adoption (van de Kaa).
+
+-->
 
 ## Les théories sociologiques: la thèse individualiste de Lesthaeghe
 
-2. Lesthaeghe et Moors (1996): la théorie des valeurs post-matérialistes
+- Lesthaeghe et Moors (1996): la théorie des valeurs post-matérialistes
 
-- La faiblesse de la fécondité est due à la montée des valeurs post-matérialistes (c.a.d les valeurs de réussite individuelle, de satisfaction des aspirations personnelles, de libéralisme) et par l’affranchissement à l’égard des superstructures traditionnelles, en particulier la religion
+>- La faiblesse de la fécondité est due à la montée des valeurs post-matérialistes (c.a.d les valeurs de réussite individuelle, de satisfaction des aspirations personnelles, de libéralisme) et par l’affranchissement à l’égard des superstructures traditionnelles, en particulier la religion
 
-- MAIS: ceux sont les sociétés libérales qui ont une fécondité plus élevée que les sociétés traditionnelles...
+>- MAIS: ceux sont les sociétés libérales de l'Europe du Nord qui ont une fécondité plus élevée que les sociétés plus conservatrices du Sud de l'Europe ==> Changement dans les structures qui servent à réduire l'incompatibilité de la reproduction et de la production
 
 ## Les théories sociologiques: la théorie de l'égalité des sexes
 
-3. McDonald (2000): la théorie de l’égalité des sexes
+>- McDonald (2000): la théorie de l’égalité des sexes
 
-- Dichotomie entre les institutions qui concernent les gens comme individus (éducation, emploi…) et celles qui considèrent l’individu en tant que membre d’une famille (services aux familles, fiscalité sécurité sociale…)
+>- Dichotomie entre les institutions qui concernent les gens comme individus (éducation, emploi…) et celles qui considèrent l’individu en tant que membre d’une famille (services aux familles, fiscalité sécurité sociale…)
 
-- Plus la société adhère à un système familial traditionnel, plus le degré de divergence entre les institutions sociales est fort, et plus la fécondité est faible
+>- Plus la société adhère à un système familial traditionnel, plus le degré de divergence entre les institutions sociales est fort, et plus la fécondité est faible
 
-- Exemple des pays d’Europe du Sud, du Japon
+>- Exemple des pays d’Europe du Sud, du Japon
 
 
 ## La théorie des flux de richesse de Caldwell
 
+>- Idée centrale: Un enfant a un prix pour les parents (coût) et en retour procure des revenues (transfert vers les parents). Si le flux net est en faveur des parents, alors ils feront beaucoup d’enfants, par contre si ce flux est en faveur des fils, les parents en feraient moins
+
+>- Dans les sociétés peu développées et agraires, le flux intergénérationnel profite aux anciens, ce qui accroit une forte fécondité. 
+
+>- Par contre, plus le niveau de développement augmente, moins les anciens ont besoin des jeunes qui surtout profitent plus qu’ils n’en octroient. 
+
+
+## La théorie des flux de richesse de Caldwell
+
+>- Malheureusement, les faits n’ont pas corroboré cette théorie de Caldwell (Thane, 1989 ; Kaplan, 1994). 
+
+>- Aujourd’hui, dans plusieurs sociétés développées, il y a une gamme de mesures qui assurent le rôle que peuvent jouer les enfants (maisons de retraite) et donc limite une forte fécondité.
+
+## La théorie des flux de richesse de Caldwell
+
+>- Voici quelques exemples d'avantages monétaires et autres accordés par les enfants à leurs parents :
+
+>- la fourniture par les enfants qui travaillent à leurs parents d'une partie ou de la majeure partie de leur salaire ;
+
+>- la prise en charge des parents âgés ;
+
+>- la perpétuation du nom de famille par la procréation ;
+
+>- l'accomplissement des services religieux nécessaires pour les ancêtres décédés ;
+
+>- l'aide et la sécurité apportées à la famille immédiate et élargie
+
+
+## La théorie des flux de richesse de Caldwell
+
+![](../Images/Caldwell.png)
 
 
 ## Les variables explicatives: réseaux sociaux et fécondité
@@ -674,10 +787,94 @@ Le fait d'avoir des enfants affecte les coûts d'opportunité des femmes actives
 
 ## Les politiques publiques
 
+>- La perspective prédominante prescrite par le modèle classique de réduction de la fécondité est le développement économique. 
+
+>- Toute autre perspective semble irréaliste dans ce contexte, comme en témoigne le slogan : "Le meilleur contraceptif, c'est le développement." 
+
+>- De même, selon Pritchett (1994), les politiques de planification familiale ne visent pas à réduire le désir de fécondité (qui est essentiel pour déclencher le déclin), mais à répondre aux besoins non satisfaits en matière de planification familiale. 
+
+## Les politiques publiques
+
+>- Il convient toutefois de noter que la plupart des théories accordent une place importante aux institutions (familiales ou étatiques) :
+ 
+ > - pour établir les conditions qui favorisent le développement économique, 
+ > - réduisent l'influence des normes de fécondité (par exemple, l'âge au mariage), ou 
+ > - permettent une meilleure diffusion de l'information ou la fourniture et la circulation de l'innovation. 
 
 
+## Les politiques publiques
+
+>- Dans les pays développés comme dans les pays en développement, le succès de ces politiques demeure mitigé. 
+
+>- En fait, selon Coale, une condition préalable au déclin de la fécondité légitime est que "la limitation de la fécondité doit entrer dans le 'calcul du choix conscient' - c'est-à-dire que les parents doivent être en mesure d'envisager l'idée qu'ils pourraient choisir, même approximativement, le nombre d'enfants qu'ils mettent au monde." 
+>- Ainsi, si la motivation à procréer n'entre pas dans ce schéma conscient, toute politique externe est condamnée à l'échec.
+
+## Les politiques publiques
+
+>- Dans les pays en développement, deux domaines de politiques particulièrement importants sont liés à :
+ 
+ > - l'éducation et à 
+ > - la planification familiale. 
+
+>- Les travaux pionniers de Caldwell en Afrique de l'Ouest ont montré l'importance de l'éducation comme moteur du changement en matière de reproduction, que ce soit en donnant aux femmes accès à l'information, en renforçant leur autonomie ou en adoptant de nouvelles valeurs occidentales (Caldwell, 1982). 
+
+## Les politiques publiques
+
+>- Plusieurs études ont en effet montré empiriquement que le niveau d'éducation des femmes est fortement corrélé à leur niveau de fécondité (Bongaarts, 2003 ; Shapiro, 2012). 
+
+>- L'engagement des pays lors de la conférence sur l'éducation de Jomtien en 1990 et de la conférence internationale sur la population au Caire en 1994 a entraîné un investissement accru dans l'éducation pour renforcer l'éducation des femmes et leur pouvoir de décision au sein de leur foyer et de la communauté.
+
+## Les politiques publiques
+
+>- Alors qu'elle a été introduite sans problèmes dans les pays développés, en particulier avec le soutien des États, la planification familiale a rencontré plus de réticences dans les pays en développement à ses débuts. 
+
+>- Elle continue de susciter des questions dans certains pays (Ouedraogo et al., 2018), même si son importance n'a plus besoin d'être démontrée en ce qui concerne le changement de la fécondité, la santé maternelle et infantile, et les opportunités économiques qu'elle crée (DaVanzo & Adamson, 1998). 
+
+>- En effet, selon Bulatao, une politique vigoureuse de planification familiale a contribué à 40% de la baisse de la fécondité, passant de 6 enfants par femme dans les années 1960 à 3 enfants par femme 30 ans plus tard (Bulatao, 1998). 
+
+## Les politiques publiques
+
+>- Le succès économique des économies tigres d'Asie (Corée du Sud, Singapour, Hong Kong, Taïwan et Japon) a également été en partie expliqué par le contrôle de la fécondité. 
+
+>- En Afrique subsaharienne, le Zimbabwe, le Kenya et le Ghana ont été les pionniers d'une politique vigoureuse de planification familiale. Il n'est donc pas surprenant que la transition de la fécondité ait commencé dans ces pays. 
+>- Plus récemment, le Rwanda s'est activement engagé dans la promotion de la planification familiale. 
+ 
+ > - Entre 2005 et 2010, l'utilisation de la contraception moderne est passée de 17% chez les femmes mariées ou en union à 52%. 
+ > - Dans le même temps, la fécondité a baissé de 25%, passant de 6,1 à 4,6 enfants par femme (Westoff, 2013).
 
 
+## Les politiques publiques
+
+>- Dans les pays développés, les politiques démographiques visent à augmenter la fécondité au-dessus du niveau de remplacement générationnel. 
+
+>- Ces politiques ne sont pas uniformes dans leur contenu et comprennent un ensemble d'objectifs visant :
+ 
+ > - à augmenter la fécondité, 
+ > - à équilibrer le travail et la vie familiale, 
+ > - à réduire les inégalités économiques et la pauvreté des familles, 
+ > - à prendre en charge et éduquer les enfants, et 
+ > - à partager équitablement les tâches familiales (Thévenon, 2008). 
+
+## Les politiques publiques
+
+>- Cependant, la plupart de ces politiques ont tendance à affecter le moment de la naissance (âge à laquelle on donne naissance) plutôt que son intensité (nombre d'enfants). 
+
+>- Selon McDonald (2002, p. 432), "une politique réussie (en matière de fécondité) impliquera très probablement des changements dans l'organisation sociale et économique à une échelle beaucoup plus large."
+
+
+## Conclusion
+
+![](../Images/Bulatao.png)
+
+
+## Conclusion
+
+- Y-a-t'il une explication unique?
+
+- Au niveau macro-économique, la transformation économique de la société renferme les germes de la baisse de la fécondité à l'échelle mondiale et peut expliquer le niveau (très) bas de la fécondité en Europe et en Amérique du Nord. En effet, pour Caldwell (2004), le principal facteur ayant conduit à la première baisse de la fécondité, en particulier l'économie de marché libre, a été fortement renforcé par la suite, entraînant une disparité entre les niveaux de fécondité et les exigences du nouvel ordre économique. De toute évidence, une fécondité très basse ou faible s'explique par le système économique mondial dirigé par des politiques économiques libérales qui pourraient, avec le temps, se révéler être la force dominante derrière la faible, notamment très faible, fécondité, et les régimes de protection sociale.
+
+
+<!--
 
 -------------------------------------------------------------
 
@@ -881,3 +1078,4 @@ $$DF (génération y) = 5*(TFA_{15, y} + TFA_{20, y} + ... + TFA_{45, y})$$
 
 ![](/Users/visseho/OneDrive - UQAM/Cours/SOC1060_Demographie/Image_cours_demo/s4.2.png)
 
+-->
